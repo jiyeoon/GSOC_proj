@@ -17,6 +17,7 @@ gsoc_test1/
 *.mdb
 *.pdb
 *.sqlite3
+.DS_Store
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
