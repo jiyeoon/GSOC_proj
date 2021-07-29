@@ -1,1 +1,0 @@
-/Users/jiyeonlee/Documents/GitHub/tensorflow/tensorflow/lite/objc/BUILD.apple

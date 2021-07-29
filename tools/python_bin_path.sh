@@ -1,1 +1,0 @@
-export PYTHON_BIN_PATH="/Users/jiyeonlee/opt/anaconda3/envs/study/bin/python3"

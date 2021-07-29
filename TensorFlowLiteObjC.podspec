@@ -1,1 +1,0 @@
-tensorflow/lite/objc/TensorFlowLiteObjC.podspec

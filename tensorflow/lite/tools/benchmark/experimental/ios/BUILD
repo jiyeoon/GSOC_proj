@@ -1,1 +1,0 @@
-/Users/jiyeonlee/Documents/GitHub/tensorflow/tensorflow/lite/tools/benchmark/experimental/ios/BUILD.apple
